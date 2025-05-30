@@ -1,0 +1,90 @@
+#footer{
+    width: 100%;
+    height: 400px;
+    background-color: #090a0e;
+}
+#footup{
+    width: 100%;
+    height: 80%;
+    /* background-color: #e7623a; */
+    border-bottom: solid 1px white;
+    border-radius: 10%;
+}
+#footbottom{
+    width: 100%;
+    height: 20%;
+    /* background-color: rgb(91, 78, 60); */
+}
+#foot1{
+    width: 50%;
+    height: 100%;
+    /* background-color: aquamarine; */
+    border-right: solid 1px white;
+    color: white;
+    float: left;
+}
+#foot2{
+    width: 49.94%;
+    height: 100%;
+    /* background-color: rgb(92, 171, 143); */
+    color: white;
+    float: left;
+}
+#foot-logo{
+    width: 110px;
+    height: 90px;
+    margin-top: 6%;
+    margin-left: 12%;
+}
+#footpara{
+    margin-left: 14%;
+    font: 14px Bahnschrift SemiBold;
+    line-height: 150%;
+}
+#footlist{
+    float: left;
+    font-size: small;
+    margin-left: 18%;
+    margin-top: 15%;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 140%;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 10%;
+}
+#roll{
+    color: white;
+    font-family: Bahnschrift SemiBold;
+    text-decoration: none;
+}
+#roll:hover{
+    color: rgb(205, 205, 205);
+    font-family: Bahnschrift SemiBold;
+    text-decoration: none;
+}
+#footleft{
+    width: 50%;
+    height: 100%;
+    /* background-color: #6a3131; */
+    color: rgb(255, 255, 255);
+    font: 14px Bahnschrift SemiBold;
+    float: left;
+}
+#copy1{
+    margin-left: 14%;
+    margin-top: 4%;
+}
+#copy2{
+    margin-left: 35%;
+    margin-top: 4%;
+}
+#footright{
+    width: 50%;
+    height: 100%;
+    /* background-color: #33316a; */
+    color: rgb(255, 255, 255);
+    font: 14px Bahnschrift SemiBold;
+    float: left;
+}

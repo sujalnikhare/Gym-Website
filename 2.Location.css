@@ -1,0 +1,52 @@
+#loc-main{
+    width: 100%;
+    height: 350px;
+    margin: 0%;
+}
+#loc{
+    font-size: 60px;
+    color: #ffffff;
+    position: relative;
+    top: 220px;
+    text-align: center;
+    text-shadow: 6px 6px 5px black;
+}
+#locback{
+    width: 100%;
+    height: 100%;
+}
+#locspace{
+    width: 100%;
+    height: 700px;
+    margin-top: 4%;
+    background-color: rgb(205, 205, 205);
+}
+#locleft{
+    width: 60%;
+    height: 100%;
+    background-color: rgb(205, 205, 205);
+    float: left;
+}
+#locright{
+    width: 40%;
+    height: 100%;
+    /* background-color: rgb(21, 0, 255); */
+    float: left;
+}
+#mapblock{
+    width: 75%;
+    height: 80%;
+    background-color: #e0e0e0;
+    margin: 8% 10% 10% 15%;
+}
+iframe{
+    width: 100%;
+    height:100%; 
+    border: solid 5px #1c1c1c; 
+}
+#loc-hed{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20%;
+    margin-bottom: 5%;
+}

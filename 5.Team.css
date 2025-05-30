@@ -1,0 +1,80 @@
+#team-main{
+    width: 100%;
+    height: 350px;
+    margin: 0%;
+    /* background-color: rgb(157, 42, 185); */
+}
+#team{
+    font-size: 60px;
+    color: #ffffff;
+    position: relative;
+    top: 220px;
+    text-align: center;
+    text-shadow: 6px 6px 5px black;
+    position: relative;
+}
+#teamback{
+    width: 100%;
+    height: 100%;
+}
+#team-space{
+    width: 100%;
+    height: 600px;
+    background-color: #ececea;
+    margin-top: 4%;
+    /* position: relative; */
+
+}
+#team-img1{
+    float: left;
+    width: 25%;
+    height: 100%;
+    /* background-color: rgb(58, 148, 118); */
+    margin-right: 2%;
+    margin-left: 10%;
+}
+#team-img2{
+    float: left;
+    width: 25%;
+    height: 100%;
+    /* background-color: rgb(40, 102, 82); */
+    margin-right: 2%;
+}
+#team-img{
+    width: 380px;
+    height: 380px;
+    /* background-color: #000000; */
+    margin-top: 20%;
+    box-shadow: 0px 0px 0px black;
+}
+#team-id{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px black;
+}
+
+#id-name{
+    width: 100%;
+    height: 24%;
+    /* background-color: #e7623a; */
+}
+#teamlink{
+    text-decoration: none;
+}
+#prof{
+    position: relative;
+    top: 0%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 1px 5px rgb(101, 101, 101) ;
+    color: #000000;
+}
+#prof:hover{
+    position: relative;
+    top: 0%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 1px 5px #ffffff ;
+    color: #000000;
+}
